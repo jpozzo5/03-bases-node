@@ -3,6 +3,8 @@
 // npm i colors@XXXX
 //npm uninstall colors
 //npm run namescript
+//npm install 
+//git checkout -- . recupero mi foto del commit
 const {crearArchivo} = require('./helpers/multiplicar');
 var colors = require('colors');
 const argv = require('yargs').argv;
